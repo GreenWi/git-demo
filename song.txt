@@ -5,6 +5,3 @@ oh-oh-oh
 
 bu-bu-bu
 ryba-ryba-ryba
-some content for reset
-some content 
-------------------------------
